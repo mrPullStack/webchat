@@ -1,4 +1,4 @@
-# WebSocket Chat Application
+# Web Chat Application
 
 This is a simple WebSocket-based chat application where multiple users can chat in real-time.
 
