@@ -13,10 +13,3 @@ This is a simple WebSocket-based chat application where multiple users can chat 
 ### Prerequisites
 
 - Node.js installed on your machine.
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd websocket-chat-app
