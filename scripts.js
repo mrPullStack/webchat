@@ -31,6 +31,10 @@ socket.onmessage = function(event) {
     }
 };
 
+socket.onclose = function(event) {
+    console.log('WebSocket closed:', event);
+    // Perform cleanup or reconnection logic if needed
+};
 
 
 
